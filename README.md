@@ -1,1 +1,1 @@
-# Space-Rocks
+A clone of the classic Asteroids game made using BlueJ. The player controls a spaceship to destroy asteroids, can press ‘H’ to teleport to a random location, and can collect powerups to increase the shield’s size.
